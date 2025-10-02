@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="fecha_nac">Fecha Nac.</string>
+    <string name="genero">Genero</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+    <string name="otro">Otro</string>
+    <string name="comentario">Comentario</string>
+    <string name="a_adir_nuevo_usuario">Añadir nuevo usuario</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
 </resources>
